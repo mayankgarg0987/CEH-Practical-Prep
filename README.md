@@ -6,10 +6,12 @@ Chill out! CEH Practical is an extremely easy exam. If you have solved basic roo
 
 <br>
 
-<b><h3>Recommendation:</b></h3>
+<b><h2>Recommendation:</b></h2>
 Download the Windows Tools I have included in the MindMap and see how to use those tools yourself. Google if you need any help.
 
-<b><h3>Important Sections in MindMap:</b></h3>
+<br>
+
+<b><h2>Important Sections in MindMap:</b></h2>
 1. Tools
 2. basic windows commands
 3. tryhackme rooms
